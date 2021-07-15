@@ -1,0 +1,10 @@
+C:\Users\illexy\source\repos\Text In Image Hiding\bin\Debug\Text In Image Hiding.exe.config
+C:\Users\illexy\source\repos\Text In Image Hiding\bin\Debug\Text In Image Hiding.exe
+C:\Users\illexy\source\repos\Text In Image Hiding\bin\Debug\Text In Image Hiding.pdb
+C:\Users\illexy\source\repos\Text In Image Hiding\obj\Debug\Text In Image Hiding.csprojAssemblyReference.cache
+C:\Users\illexy\source\repos\Text In Image Hiding\obj\Debug\Text_In_Image_Hiding.Form1.resources
+C:\Users\illexy\source\repos\Text In Image Hiding\obj\Debug\Text_In_Image_Hiding.Properties.Resources.resources
+C:\Users\illexy\source\repos\Text In Image Hiding\obj\Debug\Text In Image Hiding.csproj.GenerateResource.cache
+C:\Users\illexy\source\repos\Text In Image Hiding\obj\Debug\Text In Image Hiding.csproj.CoreCompileInputs.cache
+C:\Users\illexy\source\repos\Text In Image Hiding\obj\Debug\Text In Image Hiding.exe
+C:\Users\illexy\source\repos\Text In Image Hiding\obj\Debug\Text In Image Hiding.pdb
